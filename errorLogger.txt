@@ -1,0 +1,39 @@
+CastError: Cast to ObjectId failed for value "{ _id: undefined }" at path "_id" for model "PostDetails"
+CastError: Cast to ObjectId failed for value "{ _id: undefined }" at path "_id" for model "PostDetails"
+ValidationError: title: Needed, author: Needed, post: Needed
+ValidationError: title: Needed, author: Needed, post: Needed
+ValidationError: title: Needed, author: Needed, post: Needed
+ValidationError: title: Needed, author: Needed, post: Needed
+ValidationError: title: Needed, author: Needed, post: Needed
+ValidationError: title: Needed, author: Needed, post: Needed
+ValidationError: title: Needed, author: Needed, post: Needed
+ValidationError: title: Needed, author: Needed, post: Needed
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+Error: Arguments must be aggregate pipeline operators
+TypeError: Cannot read property 'profit' of undefined
+Error: Some Error
+ReferenceError: fetchData is not defined
+ReferenceError: newCustomer is not defined
+MongoError: The field 'day' must be an accumulator object
+MongoError: $push is not allowed in this atlas tier
+CastError: Cast to ObjectId failed for value "0" at path "_id" for model "Dashboard"
+ReferenceError: salesArray is not defined
+ReferenceError: salesArray is not defined
+ReferenceError: salesByCategory is not defined
+CastError: Cast to ObjectId failed for value "{ date: undefined }" at path "_id" for model "Dashboard"
+CastError: Cast to ObjectId failed for value "{ date: '2' }" at path "_id" for model "Dashboard"
+ReferenceError: postData is not defined
+ReferenceError: salesArray is not defined
+ReferenceError: sales is not defined
+TypeError: dayData.salesByCategory.map is not a function
+TypeError: dayData.salesByCategory.map is not a function
+TypeError: dayData.salesByCategory.map is not a function
+TypeError: dayData.salesByCategory.map is not a function
+TypeError: dayData.salesByCategory.map is not a function
+TypeError: dayData.salesByCategory.map is not a function
+TypeError: dayData.salesByCategory.map is not a function
+MongooseError: Mongoose 5.x disallows passing a spread of operators to `Model.aggregate()`. Instead of `Model.aggregate({ $match }, { $skip })`, do `Model.aggregate([{ $match }, { $skip }])`
